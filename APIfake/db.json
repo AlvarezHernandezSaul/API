@@ -24,36 +24,37 @@
     ],
     "Schools": [
         {
-            "url": "http://www.aprendiendolsm.com/",
+            
             "id": 1,
             "title": "LSM",
             "text":"Curso especializado en Lenguaje de Señas Mexicana, impartido por la UNIAM de manera virtual",
+            "url": "http://www.aprendiendolsm.com/",
             "completed": false
             },
             {
-                "url": "https://ippliap.edu.mx/",
                 "id": 2,
                 "title": "Instituto Pedagógico para Problemas de Lenguaje",
                 "text":" Institución de Asistencia Privada que desde 1967 atendemos a niños sordos y niños con problemas de lenguaje o de aprendizaje y que llevamos a cabo nuestra labor, gracias al apoyo de fundaciones, empresas y personas que noblemente apoyan nuestra causa. ",
+                "url": "https://ippliap.edu.mx/",
                 "completed": false
             },
             {
-                "url": "https://estudiosdesordos.weebly.com/",
                 "id": 3,
                 "title": "Señas en la Comunidad",
                 "text":"Favorecer el proceso de integración e inclusión de esta población de minoría lingüística, a través de la sensibilización y concientización de la persona oyente, mediante un entrenamiento básico para lograr la comunicación visogestual a través de los Estudios de la Lengua de Señas Mexicana (LSM).  ",
+                "url": "https://estudiosdesordos.weebly.com/",
                 "completed": false
             },{
-                "url": "http://ifis.com.mx/",
                 "id": 4,
                 "title": "Instituto para la Formación Integral del Sordo A.C.",
                 "text":" Contribuir a la integración de personas sordas a la sociedad a través de la promoción y reconocimiento de su cultura y el uso de la LSM. ",
+                "url": "http://ifis.com.mx/",
                 "completed": false
             },{
-                "url": "https://www.escuelaparasordos.com/lsm.php",
                 "id": 5,
                 "title": "DIPLOMADO GRATUITO EN LINEA DE LSM",
                 "text":" Curso en linea sobre el Aprendizaje de Lenguaje de Señas Mexicana. ",
+                "url": "https://www.escuelaparasordos.com/lsm.php",
                 "completed": false
             }
     ],
